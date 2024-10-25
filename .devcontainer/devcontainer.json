@@ -14,9 +14,14 @@
       "extensions": [
         "ms-toolsai.jupyter",
         "ms-python.python",
-        "REditorSupport.r",
-        "Mikhail-Arkhipov.r"
+        "REditorSupport.r"
       ]
     }
+  },
+  "features": {
+    "ghcr.io/devcontainers/features/nvidia-cuda:1": {
+      "installCudnn": true
+    }
   }
+
 }
