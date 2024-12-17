@@ -1,0 +1,31 @@
+# Input Files
+# wget https://cf.10xgenomics.com/samples/cell-vdj/3.0.0/vdj_v1_mm_c57bl6_pbmc_t/vdj_v1_mm_c57bl6_pbmc_t_fastqs.tar
+
+# Output Files
+wget https://cf.10xgenomics.com/samples/cell-vdj/3.0.0/vdj_v1_mm_c57bl6_pbmc_t/vdj_v1_mm_c57bl6_pbmc_t_all_contig_annotations.bed
+wget https://cf.10xgenomics.com/samples/cell-vdj/3.0.0/vdj_v1_mm_c57bl6_pbmc_t/vdj_v1_mm_c57bl6_pbmc_t_all_contig_annotations.csv
+wget https://cf.10xgenomics.com/samples/cell-vdj/3.0.0/vdj_v1_mm_c57bl6_pbmc_t/vdj_v1_mm_c57bl6_pbmc_t_all_contig_annotations.json
+# wget https://cf.10xgenomics.com/samples/cell-vdj/3.0.0/vdj_v1_mm_c57bl6_pbmc_t/vdj_v1_mm_c57bl6_pbmc_t_all_contig.bam
+# wget https://cf.10xgenomics.com/samples/cell-vdj/3.0.0/vdj_v1_mm_c57bl6_pbmc_t/vdj_v1_mm_c57bl6_pbmc_t_all_contig.bam.bai
+wget https://cf.10xgenomics.com/samples/cell-vdj/3.0.0/vdj_v1_mm_c57bl6_pbmc_t/vdj_v1_mm_c57bl6_pbmc_t_all_contig.fasta
+wget https://cf.10xgenomics.com/samples/cell-vdj/3.0.0/vdj_v1_mm_c57bl6_pbmc_t/vdj_v1_mm_c57bl6_pbmc_t_all_contig.fasta.fai
+wget https://cf.10xgenomics.com/samples/cell-vdj/3.0.0/vdj_v1_mm_c57bl6_pbmc_t/vdj_v1_mm_c57bl6_pbmc_t_all_contig.fastq
+wget https://cf.10xgenomics.com/samples/cell-vdj/3.0.0/vdj_v1_mm_c57bl6_pbmc_t/vdj_v1_mm_c57bl6_pbmc_t_clonotypes.csv
+# wget https://cf.10xgenomics.com/samples/cell-vdj/3.0.0/vdj_v1_mm_c57bl6_pbmc_t/vdj_v1_mm_c57bl6_pbmc_t_concat_ref.bam
+# wget https://cf.10xgenomics.com/samples/cell-vdj/3.0.0/vdj_v1_mm_c57bl6_pbmc_t/vdj_v1_mm_c57bl6_pbmc_t_concat_ref.bam.bai
+wget https://cf.10xgenomics.com/samples/cell-vdj/3.0.0/vdj_v1_mm_c57bl6_pbmc_t/vdj_v1_mm_c57bl6_pbmc_t_concat_ref.fasta
+wget https://cf.10xgenomics.com/samples/cell-vdj/3.0.0/vdj_v1_mm_c57bl6_pbmc_t/vdj_v1_mm_c57bl6_pbmc_t_concat_ref.fasta.fai
+wget https://cf.10xgenomics.com/samples/cell-vdj/3.0.0/vdj_v1_mm_c57bl6_pbmc_t/vdj_v1_mm_c57bl6_pbmc_t_consensus_annotations.csv
+wget https://cf.10xgenomics.com/samples/cell-vdj/3.0.0/vdj_v1_mm_c57bl6_pbmc_t/vdj_v1_mm_c57bl6_pbmc_t_consensus_annotations.json
+# wget https://cf.10xgenomics.com/samples/cell-vdj/3.0.0/vdj_v1_mm_c57bl6_pbmc_t/vdj_v1_mm_c57bl6_pbmc_t_consensus.bam
+# wget https://cf.10xgenomics.com/samples/cell-vdj/3.0.0/vdj_v1_mm_c57bl6_pbmc_t/vdj_v1_mm_c57bl6_pbmc_t_consensus.bam.bai
+wget https://cf.10xgenomics.com/samples/cell-vdj/3.0.0/vdj_v1_mm_c57bl6_pbmc_t/vdj_v1_mm_c57bl6_pbmc_t_consensus.fasta
+wget https://cf.10xgenomics.com/samples/cell-vdj/3.0.0/vdj_v1_mm_c57bl6_pbmc_t/vdj_v1_mm_c57bl6_pbmc_t_consensus.fasta.fai
+wget https://cf.10xgenomics.com/samples/cell-vdj/3.0.0/vdj_v1_mm_c57bl6_pbmc_t/vdj_v1_mm_c57bl6_pbmc_t_consensus.fastq
+wget https://cf.10xgenomics.com/samples/cell-vdj/3.0.0/vdj_v1_mm_c57bl6_pbmc_t/vdj_v1_mm_c57bl6_pbmc_t_filtered_contig_annotations.csv
+wget https://cf.10xgenomics.com/samples/cell-vdj/3.0.0/vdj_v1_mm_c57bl6_pbmc_t/vdj_v1_mm_c57bl6_pbmc_t_filtered_contig.fasta
+wget https://cf.10xgenomics.com/samples/cell-vdj/3.0.0/vdj_v1_mm_c57bl6_pbmc_t/vdj_v1_mm_c57bl6_pbmc_t_filtered_contig.fastq
+wget https://cf.10xgenomics.com/samples/cell-vdj/3.0.0/vdj_v1_mm_c57bl6_pbmc_t/vdj_v1_mm_c57bl6_pbmc_t_metrics_summary.csv
+wget https://cf.10xgenomics.com/samples/cell-vdj/3.0.0/vdj_v1_mm_c57bl6_pbmc_t/vdj_v1_mm_c57bl6_pbmc_t_web_summary.html
+wget https://cf.10xgenomics.com/samples/cell-vdj/3.0.0/vdj_v1_mm_c57bl6_pbmc_t/vdj_v1_mm_c57bl6_pbmc_t_vloupe.vloupe
+
